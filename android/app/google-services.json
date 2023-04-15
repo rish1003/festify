@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390933177714",
+    "project_id": "proj-15d50",
+    "storage_bucket": "proj-15d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390933177714:android:b3e2a000ca598d8efae9eb",
+        "android_client_info": {
+          "package_name": "com.example.collegify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390933177714-01nkbfduvu8ttcu6bs4cprpsa5880k2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmydXuFk80wiNQJc0QWsyMI5ADIpPc5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390933177714-01nkbfduvu8ttcu6bs4cprpsa5880k2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
